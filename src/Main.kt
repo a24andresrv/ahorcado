@@ -14,7 +14,7 @@ fun main(){
 
     val palabra=lista.shuffled()[0]
 
-    println("Bienvenido al juego del ahorcado,  tienes 7 intentos para adivinar la palabra")
+    println("Bienvenido al juego del ahorcado, tienes 7 intentos para adivinar la palabra")
 
     var mascara=mutableListOf<Char>()
 
